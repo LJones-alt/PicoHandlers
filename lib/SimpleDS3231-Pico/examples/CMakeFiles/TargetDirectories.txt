@@ -1,0 +1,2 @@
+/opt/SimpleDS3231-Pico/examples/CMakeFiles/edit_cache.dir
+/opt/SimpleDS3231-Pico/examples/CMakeFiles/rebuild_cache.dir
