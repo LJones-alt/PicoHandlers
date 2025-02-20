@@ -61,5 +61,8 @@
         "streambuf": "cpp",
         "cinttypes": "cpp",
         "typeinfo": "cpp"
+    },
+    "files.exclude": {
+        "/.vscode": true
     }
 }
